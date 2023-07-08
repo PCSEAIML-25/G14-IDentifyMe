@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\Hariom chaudhary\\OneDrive\\Documents\\blockchain course\\Project\\contracts\\Identification.sol": {
+      "lastModificationDate": 1687571985182,
+      "contentHash": "455b9a2dcebe0c21a126f33ca007bcd8",
+      "sourceName": "contracts/Identification.sol",
+      "solcConfig": {
+        "version": "0.8.18",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.7"
+      ],
+      "artifacts": [
+        "Identification"
+      ]
+    }
+  }
+}

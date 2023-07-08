@@ -1,0 +1,8 @@
+body{
+    /* background: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F1267600.jpg&f=1&nofb=1&ipt=f14e187e7d8147b023c6fd385b63ffbde84ac364f6b6fb72d47e1bb3c8f97d76&ipo=images") no-repeat center center fixed;  */
+  /* background-image: url("../5083649.jpg") no-repeat center center fixed; */
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
